@@ -1431,8 +1431,50 @@ DELETE
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Subsubsection
+Funkcje stosowane z triggerami:
+\end_layout
 
+\begin_layout Itemize
+RETURN NEW - nowy obraz danych - na DELETE przyzwoli usunięcie
+\end_layout
+
+\begin_layout Itemize
+RETURN OLD - stary - z przed zmiany - na DELETE odwoła usunięcie
+\end_layout
+
+\begin_layout Itemize
+RETURN NULL - zwraca NULL - na DELETE odwoła usunięcie
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+CREATE FUNCTION pac(); RETURNS TRIGGER LANGUAGE plpsql AS $$BEGIN RAISE
+ NOTICE 'cos z pacjentem 
+\backslash
+n'; RETURN NEW; END; $$;
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+CREATE TRIGGER p1 BEFORE DELETE ON pacjent FOR EACH ROW EXECUTE PROCEDURE
+ pac1();
+\noun default
+ - ni usunie bo RETURN NEW w funkcji
+\end_layout
+
+\begin_layout Subsubsection
+Przy czym wywoła
+\end_layout
+
+\begin_layout Itemize
+FOR EACH ROW - na każdy row
+\end_layout
+
+\begin_layout Itemize
+FOR EACH STATEMENT - na zapytanie
 \end_layout
 
 \end_body
