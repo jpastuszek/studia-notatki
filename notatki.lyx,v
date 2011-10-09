@@ -1,0 +1,832 @@
+head	1.2;
+access;
+symbols;
+locks
+	jpastuszek:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2011.10.08.21.39.20;	author jpastuszek;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.10.08.19.48.07;	author jpastuszek;	state Exp;
+branches;
+next	;
+
+
+desc
+@systemy wbudowane
+@
+
+
+1.2
+log
+@wykłady 8-X-11
+@
+text
+@#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass mwart
+\use_default_options true
+\maintain_unincluded_children false
+\language polish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\headheight 0cm
+\headsep 0cm
+\footskip 0cm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language german
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Notatki OWSIiZ Semestr V Informatyka Niestacjonarna
+\end_layout
+
+\begin_layout Author
+Jakub Pastuszek
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Przedsiębiorczość
+\end_layout
+
+\begin_layout Section
+Cechy przedsiębiorcy
+\end_layout
+
+\begin_layout Section
+Warunkowania przedsiębiorczość 
+\end_layout
+
+\begin_layout Section
+Co to jest przedsiębiorstwo 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Przedsiębiorstwo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Przedsiębiorstwo (lub inaczej jednostka gospodarcza) – wyodrębniona prawnie,
+ organizacyjnie i ekonomicznie jednostka, prowadząca działalność gospodarczą.
+ Najczęściej definiowanym celem działalności przedsiębiorstwa jest osiąganie
+ zysku lub zaspokajanie potrzeb konsumentów.
+\end_layout
+
+\begin_layout Itemize
+samofinansowanie - OWSIiZ tak; UWM nie
+\end_layout
+
+\begin_layout Itemize
+osobowość prawna - prowadzone gospodarstwo
+\end_layout
+
+\begin_layout Itemize
+samo stanowi cele i zadania
+\end_layout
+
+\begin_layout Itemize
+wyodrębniony zespół ludzi
+\end_layout
+
+\begin_layout Itemize
+zasoby - finansowe, fizyczne
+\end_layout
+
+\begin_layout Section
+Rodzaje przedsiębiorstw
+\end_layout
+
+\begin_layout Itemize
+wg.
+ formy własności
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+przedsiębiorstwa państwowe 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa prywatne (w tym przedsiębiorstwa będące własnością pojedynczych
+ osób jak i rodzin oraz spółki) 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa spółdzielcze 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa komunalne
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa będące własnością pracowników 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+wg.
+ wielkości (zatrudnienia)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+mikroprzedsiębiorstwa – zatrudniające do 9 pracowników 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa małe – zatrudniające od 10 do 49 pracowników 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa średnie – zatrudniające od 50 do 249 pracowników 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa duże – zatrudniające od 250 pracowników
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+wg.
+ branży
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+produkcyjne
+\end_layout
+
+\begin_layout Itemize
+usługowe
+\end_layout
+
+\begin_layout Itemize
+produkcyjno-usługowe
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+wg.
+ formy prawnej
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Formy_prawne_przedsiębiorstw"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Spółki prawa handlowego uregulowane w kodeksie spółek handlowych obejmują:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółki osobowe 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółka jawna 
+\end_layout
+
+\begin_layout Itemize
+spółka partnerska 
+\end_layout
+
+\begin_layout Itemize
+spółka komandytowa 
+\end_layout
+
+\begin_layout Itemize
+spółka komandytowo-akcyjna 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+spółki kapitałowe 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółka z ograniczoną odpowiedzialnością 
+\end_layout
+
+\begin_layout Itemize
+spółka akcyjna 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Kodeks cywilny z kolei reguluje działalność następujących form prawnych
+ przedsiębiorstw: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółka cywilna 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwo prywatne osoby fizycznej 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Pozostałe formy prawne uregulowane są w poszczególnych aktach prawnych –
+ ustawach.
+ Inne spotykane podmioty gospodarcze w polskim ustawodawstwie to: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+przedsiębiorstwo państwowe 
+\end_layout
+
+\begin_layout Itemize
+stowarzyszenie 
+\end_layout
+
+\begin_layout Itemize
+spółdzielnia fundacja
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+Znaczenie sektora MŚP (Małe/Śrjkjednie Przedsiębiorstwo) 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Sektor_małych_i_średnich_przedsiębiorstw"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+99% przedsiębiorstw to MŚP (w Europie)
+\end_layout
+
+\begin_layout Itemize
+60% udziału PKB; 40% to duże przedsiębiorstwa
+\end_layout
+
+\begin_layout Subsection
+Korzyści związane z rozwojem sektora MŚP
+\end_layout
+
+\begin_layout Part
+Systemy Wbudowane
+\end_layout
+
+\begin_layout Section
+Definicja 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Systemy_wbudowane"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+System wbudowany (ang.
+ Embedded system) - system komputerowy specjalnego przeznaczenia, który
+ staje się integralną częścią obsługiwanego przez niego sprzętu.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Jakie wymagania stawiane systemom wbudowanym
+\end_layout
+
+\begin_layout Itemize
+układ mikroprocesora sprzężony konstrukcyjnie z obiektem sterowanym, dedykowane
+ oprogramowanie
+\end_layout
+
+\begin_layout Itemize
+bogaty zestaw funkcji
+\end_layout
+
+\begin_layout Itemize
+nie ma 
+\begin_inset Quotes gld
+\end_inset
+
+własnego życia
+\begin_inset Quotes grd
+\end_inset
+
+ - nie da się go sprzętowo wydzielić
+\end_layout
+
+\begin_layout Itemize
+wysokie wymagania niezawodnościowe
+\end_layout
+
+\begin_layout Itemize
+niska cena w porównaniu z układem macierzystym (obiektem, procesem)
+\end_layout
+
+\begin_layout Section
+Wymagania dla komputera w roli systemu sterującego
+\end_layout
+
+\begin_layout Itemize
+kanał sterowania
+\end_layout
+
+\begin_layout Itemize
+karta obiektowa
+\end_layout
+
+\begin_layout Itemize
+mikrokontrolery - odmiany, architektury
+\end_layout
+
+\begin_layout Itemize
+sposoby komunikacji pomiędzy mikrokontorlerem w systemach rozległych
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+interfejsy
+\end_layout
+
+\begin_layout Itemize
+protokoły komunikacji
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+oprogramowanie
+\end_layout
+
+\begin_layout Itemize
+praca w trybie rzeczywistym
+\end_layout
+
+\begin_layout Section
+Podział układów
+\end_layout
+
+\begin_layout Itemize
+charakterystyka
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+liniowe
+\end_layout
+
+\begin_layout Itemize
+nieliniowe
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+sygnały
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ciągłe
+\end_layout
+
+\begin_layout Itemize
+dyskretne
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+budowa
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+otwarte - bez ujemnego sprzężenia zwrotnego
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_otwarte.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+zamknięte - z ujemnym sprzężeniem zwrotnym
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_zamknięte.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Próbkowanie
+\end_layout
+
+\begin_layout Subsection
+Warunek Shannona
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Twierdzenie_Kotielnikowa-Shannona"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jeśli sygnał ciągły nie posiada składowych widma o częstotliwości równej
+ i większej niż B, to może on zostać wiernie odtworzony z ciągu jego próbek
+ tworzących sygnał dyskretny, o ile próbki te zostały pobrane w odstępach
+ czasowych nie większych niż 1/(2B).
+ 
+\end_layout
+
+\begin_layout Section
+Komputer jako urządzenie sterujące
+\end_layout
+
+\begin_layout Itemize
+strategio sterowania - algorytm
+\end_layout
+
+\begin_layout Itemize
+sposoby oddziaływania na proces (klapy, serwo...)
+\end_layout
+
+\begin_layout Itemize
+metrologia przemysłowa 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Metrologia"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+dokumentacja i analiza przebiegu sterowania - historia, logi
+\end_layout
+
+\begin_layout Itemize
+łączność operator-proces
+\end_layout
+
+\begin_layout Itemize
+alarmy
+\end_layout
+
+\begin_layout Section
+Stan procesu
+\end_layout
+
+\begin_layout Description
+Stan zespół wielkości - jeżeli znamy stan + pobudzenie -> możemy obliczyć
+ stan przyszły
+\end_layout
+
+\begin_layout Itemize
+mało obiektów bezinercyjnych w rzeczywistości 
+\end_layout
+
+\begin_layout Itemize
+większość obiektów posiada stan
+\end_layout
+
+\begin_layout Itemize
+istotna jest historia pobudzeń
+\end_layout
+
+\begin_layout Itemize
+układy mają pamięć
+\end_layout
+
+\begin_layout Section
+Zmienne sterujące
+\end_layout
+
+\begin_layout Itemize
+Algorytmy sterowania
+\end_layout
+
+\begin_layout Section
+Zadania komputerowego systemu sterowania
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_zadania.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Struktura sprzętowa KSS
+\end_layout
+
+\begin_layout Standard
+<brak diagramu: komputer + i/o>
+\end_layout
+
+\begin_layout Section
+Klasyfikacja KSS ze względu na powiązania z procesem
+\end_layout
+
+\begin_layout Itemize
+systemy monitorowania - zbieranie danych
+\end_layout
+
+\begin_layout Itemize
+systemy sterowania automatycznego
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+DDC - Direct Digital Control
+\end_layout
+
+\begin_layout Itemize
+SDC - Supervisory Digital Control
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+systemy wbudowane (ES - Embeded Systems)
+\end_layout
+
+\begin_layout Subsection
+DDC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_DDC.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Regulatory:
+\end_layout
+
+\begin_layout Itemize
+proporcjonalna P
+\end_layout
+
+\begin_layout Itemize
+proporcjonalna różniczkujące PD
+\end_layout
+
+\begin_layout Itemize
+proporcjonalna integracyjno różniczkująca PID
+\end_layout
+
+\begin_layout Standard
+Regulatory są zastępowane przez KSS.
+\end_layout
+
+\begin_layout Standard
+Wadą tego systemu jest podniesione ryzyko związane z KSS - w razie problemów
+ z KSS cały proces staje.
+\end_layout
+
+\begin_layout Subsection
+SDC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_SDC.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sterujemy klasycznie regulatorami (PID) albo DLL ale nadzorujemy i optymalizujem
+y regulowane wartości za pomocą
+\begin_inset space ~
+\end_inset
+
+KSS.
+\end_layout
+
+\begin_layout Standard
+W razie gdy KSS pada regulatory pracują bez zmian - tracimy optymalizacje
+ ale proces może kontynuować.
+\end_layout
+
+\begin_layout Standard
+Większa odporność.
+\end_layout
+
+\end_body
+\end_document
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d5 1
+a5 1
+\textclass article
+d31 1
+a31 1
+\use_geometry false
+d46 9
+a54 2
+\secnumdepth 3
+\tocdepth 3
+d70 17
+d101 4
+d114 5
+d223 4
+d236 5
+d321 5
+a325 1
+Znaczenie sektora MŚP (Małe/Średnie Przedsiębiorstwo) 
+d335 5
+d348 1
+a348 1
+\begin_layout Section
+d353 1
+a353 1
+Systepmy Wbudowane
+d357 17
+a373 1
+Definicja
+d383 381
+@

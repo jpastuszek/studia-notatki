@@ -1,0 +1,1439 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass mwart
+\use_default_options true
+\maintain_unincluded_children false
+\language polish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\headheight 0cm
+\headsep 0cm
+\footskip 0cm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language german
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Notatki OWSIiZ Semestr V Informatyka Niestacjonarna
+\end_layout
+
+\begin_layout Author
+Jakub Pastuszek
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Przedsiębiorczość
+\end_layout
+
+\begin_layout Section
+Cechy przedsiębiorcy
+\end_layout
+
+\begin_layout Section
+Warunkowania przedsiębiorczość 
+\end_layout
+
+\begin_layout Section
+Co to jest przedsiębiorstwo 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Przedsiębiorstwo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Przedsiębiorstwo (lub inaczej jednostka gospodarcza) – wyodrębniona prawnie,
+ organizacyjnie i ekonomicznie jednostka, prowadząca działalność gospodarczą.
+ Najczęściej definiowanym celem działalności przedsiębiorstwa jest osiąganie
+ zysku lub zaspokajanie potrzeb konsumentów.
+\end_layout
+
+\begin_layout Itemize
+samofinansowanie - OWSIiZ tak; UWM nie
+\end_layout
+
+\begin_layout Itemize
+osobowość prawna - prowadzone gospodarstwo
+\end_layout
+
+\begin_layout Itemize
+samo stanowi cele i zadania
+\end_layout
+
+\begin_layout Itemize
+wyodrębniony zespół ludzi
+\end_layout
+
+\begin_layout Itemize
+zasoby - finansowe, fizyczne
+\end_layout
+
+\begin_layout Section
+Rodzaje przedsiębiorstw
+\end_layout
+
+\begin_layout Itemize
+wg.
+ formy własności
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+przedsiębiorstwa państwowe 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa prywatne (w tym przedsiębiorstwa będące własnością pojedynczych
+ osób jak i rodzin oraz spółki) 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa spółdzielcze 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa komunalne
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa będące własnością pracowników 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+wg.
+ wielkości (zatrudnienia)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+mikroprzedsiębiorstwa – zatrudniające do 9 pracowników 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa małe – zatrudniające od 10 do 49 pracowników 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa średnie – zatrudniające od 50 do 249 pracowników 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwa duże – zatrudniające od 250 pracowników
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+wg.
+ branży
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+produkcyjne
+\end_layout
+
+\begin_layout Itemize
+usługowe
+\end_layout
+
+\begin_layout Itemize
+produkcyjno-usługowe
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+wg.
+ formy prawnej
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Formy_prawne_przedsiębiorstw"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Spółki prawa handlowego uregulowane w kodeksie spółek handlowych obejmują:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółki osobowe 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółka jawna 
+\end_layout
+
+\begin_layout Itemize
+spółka partnerska 
+\end_layout
+
+\begin_layout Itemize
+spółka komandytowa 
+\end_layout
+
+\begin_layout Itemize
+spółka komandytowo-akcyjna 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+spółki kapitałowe 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółka z ograniczoną odpowiedzialnością 
+\end_layout
+
+\begin_layout Itemize
+spółka akcyjna 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Kodeks cywilny z kolei reguluje działalność następujących form prawnych
+ przedsiębiorstw: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spółka cywilna 
+\end_layout
+
+\begin_layout Itemize
+przedsiębiorstwo prywatne osoby fizycznej 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Pozostałe formy prawne uregulowane są w poszczególnych aktach prawnych –
+ ustawach.
+ Inne spotykane podmioty gospodarcze w polskim ustawodawstwie to: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+przedsiębiorstwo państwowe 
+\end_layout
+
+\begin_layout Itemize
+stowarzyszenie 
+\end_layout
+
+\begin_layout Itemize
+spółdzielnia fundacja
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+Znaczenie sektora MŚP (Małe/Średniej Przedsiębiorstwo) 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Sektor_małych_i_średnich_przedsiębiorstw"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+99% przedsiębiorstw to MŚP (w Europie)
+\end_layout
+
+\begin_layout Itemize
+60% udziału PKB; 40% to duże przedsiębiorstwa
+\end_layout
+
+\begin_layout Subsection
+Korzyści związane z rozwojem sektora MŚP
+\end_layout
+
+\begin_layout Section
+Zarządzanie strategiczne
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Strategia
+\begin_inset space ~
+\end_inset
+
+biznesowa ogół działań prowadzących do realizacji długo okresowego celu
+\end_layout
+
+\begin_layout Subsection
+Strategia
+\end_layout
+
+\begin_layout Enumerate
+domena (działania) - co robimy
+\end_layout
+
+\begin_layout Enumerate
+przewaga strategiczna - określenie źródeł przewagi strategicznej; powody
+ identyfikujące odmienność
+\end_layout
+
+\begin_layout Enumerate
+cele strategiczne - istotne w długiej perspektywie stany czy działania;
+ kryteria sprawnego działania
+\end_layout
+
+\begin_layout Enumerate
+działania operacyjne 
+\end_layout
+
+\begin_layout Subsection
+Inne/alternatywne elementy strategi
+\end_layout
+
+\begin_layout Enumerate
+wizja - zdolność przewidywania, wyobrażenia
+\end_layout
+
+\begin_layout Enumerate
+misja - uzasadnienie powodów istnienia naszej organizacji; źródła przewagi
+ strategicznej; informuje otoczenie oraz załogę co i jak chcemy robić; odpowiada
+ na 3 pytania:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+dla kogo to robimy? dla studentów
+\end_layout
+
+\begin_layout Enumerate
+co chcemy robić? uczyć
+\end_layout
+
+\begin_layout Enumerate
+jak chce robić? by uzyskać przewagę konkurencyjną
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+otoczenie - analiza strategiczna; otoczenie prawne, ekonomiczne, społeczne...
+ analiza otoczenia; otoczenie jest źródłem 
+\emph on
+szans
+\emph default
+ i 
+\emph on
+zagrożeń
+\emph default
+:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+bliższe - swoiste dla danej organizacji
+\end_layout
+
+\begin_layout Enumerate
+dalsze - otoczenie państwowe i globalne - jednak świat się kurczy, stał
+ się płaski
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+analiza zasobów - szukamy 
+\emph on
+atutów
+\emph default
+ i 
+\emph on
+słabości
+\end_layout
+
+\begin_layout Enumerate
+cele strategiczne
+\end_layout
+
+\begin_layout Enumerate
+cele operacyjne
+\end_layout
+
+\begin_layout Enumerate
+planowanie strategiczne
+\end_layout
+
+\begin_layout Subsection
+Analiza SWAT
+\end_layout
+
+\begin_layout Enumerate
+Atuty
+\end_layout
+
+\begin_layout Enumerate
+Słabości
+\end_layout
+
+\begin_layout Enumerate
+Szanse
+\end_layout
+
+\begin_layout Enumerate
+Zagrożenia
+\end_layout
+
+\begin_layout Subsubsection
+Pole celów
+\end_layout
+
+\begin_layout Standard
+Gdzie szanse i atuty się spotykają.
+\end_layout
+
+\begin_layout Subsubsection
+Kluczowe czynniki sukcesu
+\end_layout
+
+\begin_layout Subsection
+Zarządzanie strategiczne
+\end_layout
+
+\begin_layout Subsubsection
+Cykl działania zorganizowanego
+\end_layout
+
+\begin_layout Enumerate
+planowanie - wyznaczanie celów, środków i sposobów realizacji; planowanie
+ długo/krótko okresowe; cechy planowania
+\end_layout
+
+\begin_layout Enumerate
+organizowanie - czym, za co i gdzie; techniczne i organizacyjne warunki
+ do realizacji celu
+\end_layout
+
+\begin_layout Enumerate
+uruchamianie (motywowanie) - uruchomić zasoby do zmierzania ku celu; motywowanie
+ do realizacji celów
+\end_layout
+
+\begin_layout Enumerate
+kontrolowanie - czy wyszło to co miało wyjść; identyfikacja działań korygujących
+\end_layout
+
+\begin_layout Subsection
+Kryteria sprawnego działania
+\end_layout
+
+\begin_layout Enumerate
+skuteczność - miara/stopień skuteczności
+\end_layout
+
+\begin_layout Enumerate
+ekonomiczność - efekt do nakładu
+\end_layout
+
+\begin_layout Enumerate
+korzystność (działania) - w względem czego
+\end_layout
+
+\begin_layout Standard
+Wszelkie próby naprawienia czegoś złe zaczętego tylko ją pogorszy - prawo
+ Murphiego?
+\end_layout
+
+\begin_layout Subsection
+Tworzenie Strategii
+\end_layout
+
+\begin_layout Enumerate
+analiza strategiczna - szanse, zagrożenia, atuty, słabości
+\end_layout
+
+\begin_layout Enumerate
+wybór strategiczny - alternatywy założeń strategicznych; kryteria oceny;
+ dokonanie wyboru
+\end_layout
+
+\begin_layout Enumerate
+implementacja - wdrażanie
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+alokacja środków - nowe cele - potrzeba nowych zasobów
+\end_layout
+
+\begin_layout Enumerate
+struktura organizacyjna - tworzenie nowej struktury
+\end_layout
+
+\begin_layout Enumerate
+kontrola strategiczna - ocena aktualności naszej strategii
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Rodzaje strategi
+\end_layout
+
+\begin_layout Subsubsection
+Na czym się koncentruje
+\end_layout
+
+\begin_layout Enumerate
+ofensywne - rozwój
+\end_layout
+
+\begin_layout Enumerate
+defensywne - w sytuacjach kryzysowych
+\end_layout
+
+\begin_layout Subsubsection
+Wg.
+ źródeł przewagi konkurencyjnej
+\end_layout
+
+\begin_layout Enumerate
+kosztowe - niższa cena/lepszy produkt
+\end_layout
+
+\begin_layout Enumerate
+różnicowania, dyferencjacji - czym się różni produkt lub otoczka produktu
+ (np.
+ w dostarczaniu)
+\end_layout
+
+\begin_layout Enumerate
+koncentracji, specjalizacji lub dywersyfikacji - tylko to albo to i tamto
+\end_layout
+
+\begin_layout Subsubsection
+Źródła przewagi konkurencyjnej
+\end_layout
+
+\begin_layout Enumerate
+naturalna - np.
+ miejsce, patenty, dostęp do surowców - swoista dla mnie przewagę nad innymi
+\end_layout
+
+\begin_layout Enumerate
+relacja cena/jakość
+\end_layout
+
+\begin_layout Enumerate
+sposób świadczenia - otoczka produktu, dostępność, sposób eksponowani towarów,
+ raty, dostawy, produkty dodane (płyta CD)
+\end_layout
+
+\begin_layout Enumerate
+bariery wejścia - uzyskiwanie pozycji monopolistycznej, budowanie barier
+ wejścia dla innych i zamieniając je na przewagę naturalną
+\end_layout
+
+\begin_layout Part
+Systemy Wbudowane
+\end_layout
+
+\begin_layout Section
+Definicja 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Systemy_wbudowane"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+System wbudowany (ang.
+ Embedded system) - system komputerowy specjalnego przeznaczenia, który
+ staje się integralną częścią obsługiwanego przez niego sprzętu.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Jakie wymagania stawiane systemom wbudowanym
+\end_layout
+
+\begin_layout Itemize
+układ mikroprocesora sprzężony konstrukcyjnie z obiektem sterowanym, dedykowane
+ oprogramowanie
+\end_layout
+
+\begin_layout Itemize
+bogaty zestaw funkcji
+\end_layout
+
+\begin_layout Itemize
+nie ma 
+\begin_inset Quotes gld
+\end_inset
+
+własnego życia
+\begin_inset Quotes grd
+\end_inset
+
+ - nie da się go sprzętowo wydzielić
+\end_layout
+
+\begin_layout Itemize
+wysokie wymagania niezawodnościowe
+\end_layout
+
+\begin_layout Itemize
+niska cena w porównaniu z układem macierzystym (obiektem, procesem)
+\end_layout
+
+\begin_layout Section
+Wymagania dla komputera w roli systemu sterującego
+\end_layout
+
+\begin_layout Itemize
+kanał sterowania
+\end_layout
+
+\begin_layout Itemize
+karta obiektowa
+\end_layout
+
+\begin_layout Itemize
+mikrokontrolery - odmiany, architektury
+\end_layout
+
+\begin_layout Itemize
+sposoby komunikacji pomiędzy mikrokontorlerem w systemach rozległych
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+interfejsy
+\end_layout
+
+\begin_layout Itemize
+protokoły komunikacji
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+oprogramowanie
+\end_layout
+
+\begin_layout Itemize
+praca w trybie rzeczywistym
+\end_layout
+
+\begin_layout Section
+Podział układów
+\end_layout
+
+\begin_layout Itemize
+charakterystyka
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+liniowe
+\end_layout
+
+\begin_layout Itemize
+nieliniowe
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+sygnały
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ciągłe
+\end_layout
+
+\begin_layout Itemize
+dyskretne
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+budowa
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+otwarte - bez ujemnego sprzężenia zwrotnego
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_otwarte.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+zamknięte - z ujemnym sprzężeniem zwrotnym
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_zamknięte.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Próbkowanie
+\end_layout
+
+\begin_layout Subsection
+Warunek Shannona
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Twierdzenie_Kotielnikowa-Shannona"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jeśli sygnał ciągły nie posiada składowych widma o częstotliwości równej
+ i większej niż B, to może on zostać wiernie odtworzony z ciągu jego próbek
+ tworzących sygnał dyskretny, o ile próbki te zostały pobrane w odstępach
+ czasowych nie większych niż 1/(2B).
+ 
+\end_layout
+
+\begin_layout Section
+Komputer jako urządzenie sterujące
+\end_layout
+
+\begin_layout Itemize
+strategio sterowania - algorytm
+\end_layout
+
+\begin_layout Itemize
+sposoby oddziaływania na proces (klapy, serwo...)
+\end_layout
+
+\begin_layout Itemize
+metrologia przemysłowa 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://pl.wikipedia.org/wiki/Metrologia"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+dokumentacja i analiza przebiegu sterowania - historia, logi
+\end_layout
+
+\begin_layout Itemize
+łączność operator-proces
+\end_layout
+
+\begin_layout Itemize
+alarmy
+\end_layout
+
+\begin_layout Section
+Stan procesu
+\end_layout
+
+\begin_layout Description
+Stan zespół wielkości - jeżeli znamy stan + pobudzenie -> możemy obliczyć
+ stan przyszły
+\end_layout
+
+\begin_layout Itemize
+mało obiektów bezinercyjnych w rzeczywistości 
+\end_layout
+
+\begin_layout Itemize
+większość obiektów posiada stan
+\end_layout
+
+\begin_layout Itemize
+istotna jest historia pobudzeń
+\end_layout
+
+\begin_layout Itemize
+układy mają pamięć
+\end_layout
+
+\begin_layout Section
+Zmienne sterujące
+\end_layout
+
+\begin_layout Itemize
+Algorytmy sterowania
+\end_layout
+
+\begin_layout Section
+Zadania komputerowego systemu sterowania
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_zadania.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Struktura sprzętowa KSS
+\end_layout
+
+\begin_layout Standard
+<brak diagramu: komputer + i/o>
+\end_layout
+
+\begin_layout Section
+Klasyfikacja KSS ze względu na powiązania z procesem
+\end_layout
+
+\begin_layout Itemize
+systemy monitorowania - zbieranie danych
+\end_layout
+
+\begin_layout Itemize
+systemy sterowania automatycznego
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+DDC - Direct Digital Control
+\end_layout
+
+\begin_layout Itemize
+SDC - Supervisory Digital Control
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+systemy wbudowane (ES - Embeded Systems)
+\end_layout
+
+\begin_layout Subsection
+DDC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_DDC.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Regulatory:
+\end_layout
+
+\begin_layout Itemize
+proporcjonalna P
+\end_layout
+
+\begin_layout Itemize
+proporcjonalna różniczkujące PD
+\end_layout
+
+\begin_layout Itemize
+proporcjonalna integracyjno różniczkująca PID
+\end_layout
+
+\begin_layout Standard
+Regulatory są zastępowane przez KSS.
+\end_layout
+
+\begin_layout Standard
+Wadą tego systemu jest podniesione ryzyko związane z KSS - w razie problemów
+ z KSS cały proces staje.
+\end_layout
+
+\begin_layout Subsection
+SDC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KSS_SDC.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sterujemy klasycznie regulatorami (PID) albo DLL ale nadzorujemy i optymalizujem
+y regulowane wartości za pomocą
+\begin_inset space ~
+\end_inset
+
+KSS.
+\end_layout
+
+\begin_layout Standard
+W razie gdy KSS pada regulatory pracują bez zmian - tracimy optymalizacje
+ ale proces może kontynuować.
+\end_layout
+
+\begin_layout Standard
+Większa odporność.
+\end_layout
+
+\begin_layout Part
+Bazy Danych
+\end_layout
+
+\begin_layout Standard
+Postgres jest używany w całej akademii medycznej.
+\end_layout
+
+\begin_layout Section
+Uprawnienia
+\end_layout
+
+\begin_layout Subsection
+Role
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+create user
+\end_layout
+
+\begin_layout Subsection
+Grupy
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "Notacja Petera Chena"
+target "http://en.wikipedia.org/wiki/Peter_Chen"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Grupa różni się tym że nie można się zalogować jako grupa.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename BD_badania.png
+	scale 60
+	groupId Diagramy
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+\noun on
+CREATE
+\emph default
+/ALTER/DROP
+\emph on
+ GROUP/USER 
+\noun default
+- 
+\noun on
+w SQL
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+CREATE/ALTER/DROP ROLE
+\noun default
+ - w Postgresie grupa i rola to to samo - różni się 
+\noun on
+no login
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+GRANT
+\noun default
+ - co (obiekt) dla kogo (user/grupa)
+\end_layout
+
+\begin_layout Itemize
+zakładanie bazy przez użytkownika - programy 
+\emph on
+createuser
+\emph default
+, 
+\emph on
+cratedb
+\end_layout
+
+\begin_layout Itemize
+problem dostępu do badań - wszyscy muszą zmieniać różne pola, technik może
+ podejrzeć opis a nie powinien
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+zastosowanie widoków - uprawnienia do konkretnego widoku a nie selecta na
+ tabeli
+\end_layout
+
+\begin_layout Itemize
+funkcje które działają na części tabeli - brak uprawnienia do tabeli ale
+ nie do funkcji
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Widoki
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p.id
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p.imie
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p.nazwisko
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b.data
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b.opis
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+\begin_inset CommandInset href
+LatexCommand href
+name "CREATE VIEW"
+target "http://www.postgresql.org/docs/9.1/static/sql-createview.html"
+
+\end_inset
+
+pokażbadania AS 
+\noun default
+SELECT 
+\noun on
+p.imie, p.nazwisko, b.data, b.opis as opis, a.id FROM pacjent p, badanie b, aparat
+ a WHERE p.id = b.pid AND b.aid = a.eid
+\noun default
+;
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+SELECT * FROM pokażbadania
+\noun default
+;
+\end_layout
+
+\begin_layout Itemize
+uprawnienia do widoku a nie do tabeli zwróci wyniki - nie dowiecie się np.
+ kto badał bo view nie zwróci tego.
+\end_layout
+
+\begin_layout Section
+Funkcje
+\end_layout
+
+\begin_layout Standard
+W MySQL są funkcje i procedury - funkcje nie mogą pisać do danych za to
+ zwracają wartość.
+ Postgres skonstruowane podobnie jak w Oracle.
+\end_layout
+
+\begin_layout Subsection
+Co to jest funkcja?
+\end_layout
+
+\begin_layout Standard
+Możliwość stworzenia własnej implementacji polecenia która umożliwi nam
+ wykorzystanie pewnych procedur.
+\end_layout
+
+\begin_layout Subsection
+
+\noun on
+\begin_inset CommandInset href
+LatexCommand href
+name "CREATE FUNCTION"
+target "http://www.postgresql.org/docs/9.1/static/sql-createfunction.html"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+integracja z zewnętrznymi bibliotekami - można np.
+ napisać klienta poczty który wyśle maila przy dostępie do danych nieupoważniony
+m
+\end_layout
+
+\begin_layout Subsubsection
+Typy funkcji
+\end_layout
+
+\begin_layout Itemize
+prosta - 
+\noun on
+SELECT sin(id) FROM pacjent;
+\end_layout
+
+\begin_layout Itemize
+agregacji - 
+\noun on
+SELECT sum(id) FROM pacjent;
+\end_layout
+
+\begin_layout Subsubsection
+Pod względem wartości
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+IMMUTABLE
+\noun default
+ - wynik nie zmienny
+\end_layout
+
+\begin_layout Itemize
+STABLE - wartości nie zmieniają się wewnątrz transakcji
+\end_layout
+
+\begin_layout Itemize
+VOLATILE - zmienia się za każdym skanem/uruchomienie
+\end_layout
+
+\begin_layout Subsubsection
+Co zwraca
+\end_layout
+
+\begin_layout Itemize
+RETURN NULL ON NULL - optymalizacja - wymagane są nie NULLowe dane
+\end_layout
+
+\begin_layout Subsubsection
+Uprawnienia
+\end_layout
+
+\begin_layout Itemize
+SECURITY DEFINER - zależy kto zdefiniował - funkcje wykonywane są jako użytkowni
+k który ją zdefiniował
+\end_layout
+
+\begin_layout Itemize
+SECURITY INVOKER - kto ją wykonuje
+\end_layout
+
+\begin_layout Subsubsection
+Języki
+\end_layout
+
+\begin_layout Itemize
+C
+\end_layout
+
+\begin_layout Itemize
+SQL
+\end_layout
+
+\begin_layout Itemize
+PG/SQL
+\end_layout
+
+\begin_layout Itemize
+Perl, Python
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset href
+LatexCommand href
+name "CREATE TYPE"
+target "http://www.postgresql.org/docs/9.1/static/sql-createtype.html"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+W PG i Oracle można tworzyć typy danych.
+\end_layout
+
+\begin_layout Itemize
+forma reprezentacji
+\end_layout
+
+\begin_layout Itemize
+forma składowania
+\end_layout
+
+\begin_layout Itemize
+funkcja konwersji z zewnętrznego formatu na wewnętrzny - IN
+\end_layout
+
+\begin_layout Itemize
+funkcja konwersji z wewnętrznego formatu na zewnętrzny - OUT
+\end_layout
+
+\begin_layout Subsection
+Wyzwalacze (
+\begin_inset CommandInset href
+LatexCommand href
+name "TRIGGER"
+target "http://www.postgresql.org/docs/9.1/static/sql-createtrigger.html"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Subsubsection
+Kiedy
+\end_layout
+
+\begin_layout Itemize
+BEFORE/AFTER
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+CREATE
+\end_layout
+
+\begin_layout Itemize
+UPDATE
+\end_layout
+
+\begin_layout Itemize
+DELETE
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document
